@@ -1,7 +1,8 @@
 # QoS Priority Controller - SDN Mininet Project
 
 ## Student Details
-- **Name:** Dhruvjagadeesh
+- **Name:** Bhavish A
+- **SRN:** PES2UG24AM040
 - **Course:** UE24CS252B - Computer Networks
 - **Project:** Simple QoS Priority Controller
 
@@ -31,7 +32,7 @@ Implement an SDN-based QoS controller that prioritizes traffic types using OpenF
 ```bash
 sudo apt install mininet -y
 git clone https://github.com/noxrepo/pox.git ~/pox
-git clone https://github.com/Dhruvjagadeesh/qos-sdn-mininet.git
+git clone https://github.com/bhavisharun24-prog/Simple-QoS-Priority-Controller.git
 cp qos_controller.py ~/pox/ext/
 ```
 
