@@ -1,7 +1,7 @@
 # QoS Priority Controller - SDN Mininet Project
 
 ## Student Details
-- **Name:** Bhavisharun
+- **Name:** Bhavish A
 - **SRN:** PES2UG24AM040
 - **Course:** UE24CS252B - Computer Networks
 - **Project:** Simple QoS Priority Controller
